@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+  background-color: black;
+  font-family: Verdana;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+p {
+  font-size: 21p;
+  color: gray;
+}
+
+#signature {
+  text-align: right;
+}
